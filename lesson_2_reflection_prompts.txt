@@ -5,3 +5,7 @@ Se crea una carpeta oculta llamada .git en la que se mantendrá el control de la
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Sirve para definir un conjunto de archivos relacionados por los cambios que tuvieron, ya sea compartiendo el mismo objetivo o por seperacion de logicas minimas
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Por medio del Staging area tu creas y seleccionas un grupo de archivos que tienen cambios unicamente de un cambio logico. una vez seleccionado este grupo simplemente se realiza commit
