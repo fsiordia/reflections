@@ -1,0 +1,27 @@
+rEFLEXIONS 1 
+
+El sistema de comparaciond e archivcos nos ayuda a detectar facilemtne errores
+
+para windows FC
+
+para mac/unic Diff
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+SE QUEDAN verisones de los documentos mas consistentes.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Porque unos estan pensados para desarrollo, que normalemtente un solo cambio de lolgica afecta a varios archivos
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+se peude navegar con estos comandos a travez de el historial de cambios de los archivos y ver las difernecias puntuales en cada cambio
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Te da mas seguridad para mover cosas pues sabes que si la cagas puedes arreglar el problema
