@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Se crea una carpeta oculta llamada .git en la que se mantendrá el control de las versiones. Lo necesitaria pues es lo ideal para manejar versiones de un proyecto
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Sirve para definir un conjunto de archivos relacionados por los cambios que tuvieron, ya sea compartiendo el mismo objetivo o por seperacion de logicas minimas
