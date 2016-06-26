@@ -9,3 +9,16 @@ Sirve para definir un conjunto de archivos relacionados por los cambios que tuvi
 How can you use the staging area to make sure you have one commit per logical change?
 
 Por medio del Staging area tu creas y seleccionas un grupo de archivos que tienen cambios unicamente de un cambio logico. una vez seleccionado este grupo simplemente se realiza commit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Servirian para el desarrollo paralelo de diferentes funcionalidades o diferentes versiones de un proyecto buscando al final unir cda una de estas versiones en una version integral.
+
+How do the diagrams help you visualize the branch structure?
+
+Sirven para ver el orden de jerarquia de los comits así como para diferencias branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+El resultado de unir 2 branches es un nuevo branch donde se ven reflejados los cambios de ambas ramas. se representa en el diagrama de esa manera pues tiene en realidad 2 commits padres
