@@ -25,3 +25,8 @@ se peude navegar con estos comandos a travez de el historial de cambios de los a
 How might using version control make you more confident to make changes that could break something?
 
 Te da mas seguridad para mover cosas pues sabes que si la cagas puedes arreglar el problema
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Para desarrollar una app de android
